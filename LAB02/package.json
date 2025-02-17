@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "prompt": "^1.3.0"
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
   },
   "name": "rpsgame",
   "version": "1.0.0",
   "description": "This is a Rock paper scissor game played with cpu",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
